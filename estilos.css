@@ -1,0 +1,76 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(226,176,206,1) 13%, rgba(221,177,207,1) 18%, rgba(215,178,209,1) 25%, rgba(201,180,214,1) 41%, rgba(193,181,217,1) 50%, rgba(171,184,225,1) 75%, rgba(148,187,233,1) 100%);
+    color:rgba(53, 39, 59, 0.932);
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: normal;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.ti1{
+    font-size: 60px;
+}
+
+h1{
+    color:black;
+    font-weight: 700;
+}
+
+h2,h3{ 
+    color: rgba(76, 0, 130, 0.795);
+    font-weight: 600;
+}
+
+a{ 
+    color: rgba(115, 0, 126, 0.959);
+    font-weight: 700; 
+}
+
+p{
+    font-weight: 600;
+}
+
+.myList{
+    /* background-color: rgb(238,174,202); */
+    width: fit-content;
+    background-color: #C39FD2;
+    border-radius: 10px;
+    margin: 0; 
+    padding: 0;
+}
+.myList > li { 
+    padding: 12px;
+    border-bottom: 1px solid #9D6FB1;
+}
+.myList li:last-child {
+    border-bottom: none;
+}
+
+
+.img1{
+    margin: 50px;
+    /* border-color: rgba(26, 74, 165, 0.158); */
+    padding: 0px;
+}
+
+.img2{
+    width: 400px;
+    margin: 50px;
+    padding: 0px;
+}
+
+.img3{
+    width: 400px;
+    margin: 50px;
+    padding: 0px;
+}
+
+.vid1{
+    margin: 50px;
+}
+
+.marco {
+    border-radius: 40px;
+    border: 25px solid #55414A;
+}
