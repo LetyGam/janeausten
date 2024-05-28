@@ -23,4 +23,4 @@ Este proyecto creado en el bootcamp [Tecnolochicas](https://tecnolochicas.mx/) f
 
 ### Vista Previa del Proyecto
 
-![Demo](imagenes/Jane_screen.jpeg)
+![Demo](imagenes/Jane_screen.png)
